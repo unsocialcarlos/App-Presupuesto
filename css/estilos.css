@@ -177,6 +177,7 @@ body {
     float: left;
     width: 370px;
     margin-right: 70px;
+    margin-top: 200px;
 }
 
 .egreso {
@@ -204,6 +205,7 @@ h2 {
 
 .elemento_descripcion {
     float: left;
+    color: #28B9B5;
 }
 
 .elemento_valor {
